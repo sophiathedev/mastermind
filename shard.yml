@@ -1,0 +1,13 @@
+name: mastermind
+version: 0.0.1-alpha
+
+authors:
+  - sophiathedev <thedevguy1337@gmail.com>
+
+targets:
+  mastermind:
+    main: src/mastermind.cr
+
+crystal: '>= 1.19.1'
+
+license: MIT
